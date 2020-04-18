@@ -7,7 +7,7 @@ title: About Me
   Hey there! Welcome to Yuntao's homepage!
 </p>
 
-I am a senior Data Scientist by profession, a physicist by training, and an educator by heart.
+I am a data scientist by profession, a physicist by training, and an educator by heart.
 
 ## Education
 

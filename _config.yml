@@ -5,20 +5,19 @@ plugins:          [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
-# relative_permalinks: true
 
 # Setup
-title:            Yuntao Li
+title:            Yuntao
 tagline:          'Homepage'
 description:      'Code, Model, Learn'
 url:              'http://physcoder.github.io'
-baseurl:          "http://physcoder.github.io/"
+baseurl:          "http://physcoder.github.io/" # for local testing, change to "/"
 
 author:
-  name:           'Yuntao Li'
+  name:           'Yuntao'
   url:            https://www.linkedin.com/in/yuntaoli/
 
-paginate:         5
+paginate:         5 # how many post to display per page
 
 # Custom vars
 # version:          2.1.0
