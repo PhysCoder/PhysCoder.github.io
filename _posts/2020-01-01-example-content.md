@@ -4,7 +4,7 @@ title: Example content
 ---
 
 
-<div class="message">
+<!-- <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
@@ -106,6 +106,7 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
     </tr>
   </thead>
   <tfoot>
+    
     <tr>
       <td>Totals</td>
       <td>21</td>
@@ -136,3 +137,4 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+ -->
