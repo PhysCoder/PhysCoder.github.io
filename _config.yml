@@ -11,8 +11,8 @@ permalink:        pretty
 title:            Yuntao Li
 tagline:          'Homepage'
 description:      'Code, Model, Learn'
-url:              'physcoder.github.io'
-baseurl:          /
+url:              'http://physcoder.github.io'
+baseurl:          "http://physcoder.github.io/"
 
 author:
   name:           'Yuntao Li'
