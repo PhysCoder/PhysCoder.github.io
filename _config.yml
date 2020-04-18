@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         GFM
+markdown:         kramdown
 highlighter:      rouge
+plugins:          [jekyll-paginate]
 
 # Permalinks
 permalink:        pretty
@@ -9,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Yuntao Li
 tagline:          'Homepage'
-description:      'Code; Model; Learn'
+description:      'Code, Model, Learn'
 url:              'physcoder.github.io'
 baseurl:          /
 
